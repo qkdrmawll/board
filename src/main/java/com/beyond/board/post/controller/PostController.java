@@ -1,2 +1,7 @@
-package com.beyond.board.post.controller;public class PostController {
+package com.beyond.board.post.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class PostController {
 }
