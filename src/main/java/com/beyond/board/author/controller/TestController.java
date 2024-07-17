@@ -1,2 +1,4 @@
-package com.beyond.board.author.controller;public class TestController {
+package com.beyond.board.author.controller;
+
+public class TestController {
 }
